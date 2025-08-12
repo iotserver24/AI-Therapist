@@ -13,4 +13,3 @@ services:
     envVars:
       - key: NOVITA_API_KEY
         sync: false
-
